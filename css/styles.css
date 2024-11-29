@@ -73,13 +73,13 @@ button {
 }
 
 .nav-contact-link:hover,
-..nav-contact-link:focus {
+.nav-contact-link:focus {
   color: #404bbf;
 }
 
 /* #endregion */
 
-123 .btn-order:hover,
+.btn-order:hover,
 .btn-order:focus {
   background-color: ;
   color: ;
